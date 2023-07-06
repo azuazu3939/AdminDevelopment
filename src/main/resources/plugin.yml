@@ -1,0 +1,4 @@
+name: Admin_Tutorial_04_02
+version: '${project.version}'
+main: azuazu3939.admin_tutorial_04_02.Admin_Tutorial_04_02
+api-version: '1.19'
